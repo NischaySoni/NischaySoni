@@ -120,7 +120,7 @@ A collection of core operating systems concepts implemented from scratch in C �
 <tr>
 <td width="50%" valign="top">
 
-#### 🗄️ [DBMS_Project](https://github.com/NischaySoni/DBMS_Project)
+#### 🗄️ [DBMS_Project](https://github.com/NischaySoni/StockTrading)
 A database management systems coursework project exploring core DBMS concepts through a hands-on Java implementation.
 
 `Java` `SQL` `DBMS`
